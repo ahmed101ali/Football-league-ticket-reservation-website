@@ -1,0 +1,6 @@
+D:\GUC\Semester 5\Data Base\Project\database_project\database_project\bin\Debug\database_project.dacpac
+D:\GUC\Semester 5\Data Base\Project\database_project\database_project\bin\Debug\database_project.dll
+D:\GUC\Semester 5\Data Base\Project\database_project\database_project\bin\Debug\database_project.pdb
+D:\GUC\Semester 5\Data Base\Project\database_project\database_project\obj\Debug\database_project.sqlproj.AssemblyReference.cache
+D:\GUC\Semester 5\Data Base\Project\database_project\database_project\obj\Debug\database_project.dll
+D:\GUC\Semester 5\Data Base\Project\database_project\database_project\obj\Debug\database_project.pdb
